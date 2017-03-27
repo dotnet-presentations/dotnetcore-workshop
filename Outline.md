@@ -1,3 +1,55 @@
+
+<table>
+<tbody>
+<tr>
+<td>From</td>
+<td>To</td>
+<td>Session</td>
+</tr>
+<tr>
+<td>9:00 AM</td>
+<td>10:00 AM</td>
+<td>Overview, Tools and Acquisition (1 hour)</td>
+</tr>
+<tr>
+<td>10:00 AM</td>
+<td>12:00 PM</td>
+<td>Web Dev 101 (2 hours)</td>
+</tr>
+<tr>
+<td>12:00 PM</td>
+<td>1:00 PM</td>
+<td>Lunch</td>
+</tr>
+<tr>
+<td>1:00 PM</td>
+<td>2:00 PM</td>
+<td>Porting From .NET Framework (1 hour)</td>
+</tr>
+<tr>
+<td>2:00 PM</td>
+<td>2:45 PM</td>
+<td>Maximize Code Reuse With .NET Standard (1 hour)</td>
+</tr>
+<tr>
+<td>2:45 PM</td>
+<td>3:00 PM</td>
+<td>Afternoon Break</td>
+</tr>
+<tr>
+<td>3:00 PM</td>
+<td>4:00 PM</td>
+<td>Microservices Architecture (1 hour)</td>
+</tr>
+<tr>
+<td>4:00 PM</td>
+<td>5:00 PM</td>
+<td>Additional Lab Time </td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
 Are you ready to get started with .NET Core? Learn the skills that will make you successful in building .NET applications no matter what operating system you are targeting. We’ll start with an overview of the framework and development tools, dig into ASP.NET Core web development, show you what you need to know to update from the .NET Framework to .NET Core, overview code reuse across frameworks, and wrap-up up with some real world microservices and container architectural recommendations. Bring your laptop and roll up your sleeves for this full day of instructor-led training with the .NET team.
 
 
