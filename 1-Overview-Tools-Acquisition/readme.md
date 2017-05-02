@@ -8,6 +8,19 @@
 
 ## Overview Presentation
 
-## .NET Core 2.0
+### Creating a new .NET Core console application using Command Line tools
 
-First, we'll create a simple console application using the .NET Core 
+1. From the command line, run `dotnet new console`
+1. Type `dotnet run` to run the application. You'll see a simple "Hello World" message.
+
+### Exploring and Editing the Application using Visual Studio Code
+
+1. Type `code .` to launch Visual Studio Code in the current directory.
+1. Take a look at the Program.cs file.
+1. Change the "Hello World" message to "Hello Build".
+1. Switch to the console and type `dotnet run` to to see the update.
+
+### Creating a new .NET Core application using Visual Studio 2017
+
+1. Follow the steps in the [Building a complete .NET Core solution on Windows, using Visual Studio 2017](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
+    > Note: If you'd like simpler one to get started, you can first complete the [Building a C# Hello World application with .NET Core in Visual Studio 2017](https://docs.microsoft.com/en-us/dotnet/articles/csharp/getting-started/with-visual-studio) tutorial.
