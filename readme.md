@@ -4,11 +4,11 @@ Please note the event will take place on the Microsoft Campus in Redmond. You a
 
 From     | To       | Session
 ---------|----------|-------------------------------------------------
-9:00 AM  | 10:00 AM | Overview, Tools and Acquisition (1 hour)
-10:00 AM | 12:00 PM | Web Dev 101 (2 hours)
+9:00 AM  | 10:00 AM | [Overview, Tools and Acquisition](1-Overview-Tools-Acquisition) (1 hour)
+10:00 AM | 12:00 PM | [Web Dev 101](2-Web-Dev) (2 hours)
 12:00 PM | 1:00 PM  | Lunch
-1:00 PM  | 2:00 PM  | Porting From .NET Framework (1 hour)
-2:00 PM  | 2:45 PM  | Maximize Code Reuse With .NET Standard (1 hour)
+1:00 PM  | 2:00 PM  | [Porting From .NET Framework](3-Porting-From-NET-Framework) (1 hour)
+2:00 PM  | 2:45 PM  | [Maximize Code Reuse With .NET Standard](4-NET-Standard) (1 hour)
 2:45 PM  | 3:00 PM  | Afternoon Break
-3:00 PM  | 4:00 PM  | Microservices Architecture (1 hour)
+3:00 PM  | 4:00 PM  | [Microservices Architecture](5-Microservices-Architecture) (1 hour)
 4:00 PM  | 5:00 PM  | Additional Lab Time
