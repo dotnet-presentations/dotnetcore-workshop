@@ -24,3 +24,18 @@
 
 1. Follow the steps in the [Building a complete .NET Core solution on Windows, using Visual Studio 2017](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
     > Note: If you'd like simpler one to get started, you can first complete the [Building a C# Hello World application with .NET Core in Visual Studio 2017](https://docs.microsoft.com/en-us/dotnet/articles/csharp/getting-started/with-visual-studio) tutorial.
+
+### Extra Credit: Create a Class Library and Xunit test solution
+```
+dotnet new (lists options)
+dotnet new sln -o MyApp
+dotnet new classlib -o MyApp
+dotnet new xunit -o MyApp.Test
+dotnet sln add MyApp/MyApp.csproj
+dotnet sln add MyApp.Test/MyApp.Test.csproj
+cd MyApp.Test
+dotnet add Reference ../MyAppp/MyApp.csproj
+dotnet restore
+dotnet build
+dotnet test
+```
