@@ -15,5 +15,8 @@ This tutorial will guide you through the following steps:
 1. Open the solution in Visual Studio 2017 or Visual Studio Code as desired.
 1. Explore the pages files shown in `/RazorPagesSample/Pages/Customers/`
 
+## Tag Helpers
+1. Follow the [Tag Helpers lab](tag-helpers.md).
+
 ## Single Page Applications using JavaScriptServices
 1. Follow the [Single Page Applications lab](single-page-applications.md).
