@@ -2,6 +2,8 @@ Are you ready to get started with .NET Core? Learn the skills that will make you
 
 Please note the event will take place on the Microsoft Campus in Redmond. You are responsible for your own transportation. Please bring a laptop with Visual Studio 2017 and the ASP.NET workload  installed so we can start with hands on samples right away! 
 
+## Schedule
+
 From     | To       | Session
 ---------|----------|-------------------------------------------------
 9:00 AM  | 10:00 AM | [Overview, Tools and Acquisition](1-Overview-Tools-Acquisition) (1 hour)
@@ -12,3 +14,10 @@ From     | To       | Session
 2:45 PM  | 3:00 PM  | Afternoon Break
 3:00 PM  | 4:00 PM  | [.NET Microservices](5-NET-Core-Microservices) (1 hour)
 4:00 PM  | 5:00 PM  | Additional Lab Time
+
+## Where to go next
+ * [http://dot.net](http://dot.net) - .NET Core overview, tutorials, links
+ * [http://doc.microsoft.com](http://docs.microsoft.com) - All the docs, tutorials, more!
+ * [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/)
+ * [.NET Standard docs](https://docs.microsoft.com/en-us/dotnet/articles/standard/library)
+ * [Microservices e-book](http://aka.ms/MicroservicesEbook)
