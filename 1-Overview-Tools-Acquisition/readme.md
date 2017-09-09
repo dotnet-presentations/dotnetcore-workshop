@@ -4,7 +4,8 @@
 
 ## Prerequisites
 * [Visual Studio 2017 (Latest Public Preview)](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
-* [.NET Core SDK (2.0.0-preview2)](https://github.com/dotnet/cli#installers-and-binaries)
+* [Visual Studio Code](https://code.visualstudio.com)
+* [.NET Core 2.0 SDK](https://www.microsoft.com/net/download/core)
 
 ## Overview Presentation
 
@@ -27,7 +28,7 @@
 
 ### Extra Credit: Create a Class Library and Xunit test solution
 ```
-dotnet new (lists options)
+dotnet new            ::Note: this lists available options
 dotnet new sln -o MyApp
 cd MyApp
 dotnet new classlib -o MyApp
