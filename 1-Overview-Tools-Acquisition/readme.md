@@ -18,7 +18,7 @@
 
 1. Type `code .` to launch Visual Studio Code in the current directory.
 1. Take a look at the Program.cs file.
-1. Change the "Hello World" message to "Hello Build".
+1. Change the "Hello World" message to "Hello .NET".
 1. Switch to the console and type `dotnet run` to to see the update.
 
 ### Creating a new .NET Core application using Visual Studio 2017
