@@ -1,15 +1,3 @@
-## Prerequisites
-1. Verify you have npm 3+ installed (run `npm -v` to check).
-1. Install Yeoman and the aspnetcore-spa generator globally: 
-
-  ```
-  npm install -g yo generator-aspnetcore-spa
-  ```
-1. Intall Webpack globally:
-
-  ```
-  npm install -g webpack
-  ```
 ## Creating a new Angular 2 application
 1. From a commandline, create and navigate to a new empty directory.
 1. Create a new Angular 2 application using the "aspnetcore-spa" scaffolder:

@@ -5,12 +5,12 @@
 
   ![image](Images/new-webapp-individual-accounts.png)
 
-1. Open the view `Views/Account/Register.cshtml`
+1. Open the view `Pages/Account/Register.cshtml`
 1. Look at the Tag Helpers attributes being used in this view (examples: `asp-controller`, `asp-validation-summary`) and play around with setting the attributes and exploring the IntelliSense offered for the different attribute types
    *Note: VS2017 and Visual Studio Code currently doen't support IntelliSense for Tag Helpers*
 1. Run the application and see the HTML output by the Tag Helpers
-1. Look at the other views in `Views/Account/` folder to see how they use Tag Helpers
-1. Open the file `Views/Shared/_Layout.cshtml`
+1. Look at the other views in `Pages/Account/` folder to see how they use Tag Helpers
+1. Open the file `Pages/_Layout.cshtml`
 1. Look at the Tag Helpers being used in the `<head>` element and at the end of the page to render CSS stylesheets and JavaScript files and compare it to the generated HTML output
 
 ## Create a custom Tag Helper
@@ -29,7 +29,7 @@
   ```
 
 1. Open the `_ViewImports.cshtml` file and add a line to register your Tag Helper: `@addTagHelper *, Lab6` (adjust `Lab6` to your project/assembly name)
-1. Open `Views/Home/Index.cshtml` and use your Tag Helper, e.g.:
+1. Open `Pages/Index.cshtml` and use your Tag Helper, e.g.:
 
   ``` HTML
   <repeat count="5">
