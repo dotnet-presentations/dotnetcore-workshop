@@ -3,7 +3,7 @@
 > We'll get started with a quick overview of .NET Core: what it is, why you should care, and how to get set up to start using it.
 
 ## Prerequisites
-* [Visual Studio 2017 (Latest Public Preview)](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* [Visual Studio 2017](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [.NET Core 2.0 SDK](https://www.microsoft.com/net/download/core)
 
