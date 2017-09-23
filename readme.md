@@ -10,7 +10,7 @@ From     | To       | Session
 1:00 PM  | 2:00 PM  | [Maximize Code Reuse With .NET Standard](3-NET-Standard) (1 hour)
 2:00 PM  | 2:45 PM  | [Porting From .NET Framework](4-Porting-From-NET-Framework) (1 hour)
 2:45 PM  | 3:00 PM  | Afternoon Break
-3:00 PM  | 4:00 PM  | [.NET Microservices](5-NET-Core-Microservices) (1 hour)
+3:00 PM  | 4:00 PM  | [.NET Containers](5-NET-Core-Containers) (1 hour)
 4:00 PM  | 5:00 PM  | Additional Lab Time
 
 ## Where to go next
