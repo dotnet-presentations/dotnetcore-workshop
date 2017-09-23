@@ -36,7 +36,7 @@ dotnet new xunit -o MyApp.Test
 dotnet sln add MyApp/MyApp.csproj
 dotnet sln add MyApp.Test/MyApp.Test.csproj
 cd MyApp.Test
-dotnet add Reference ../MyApp/MyApp.csproj
+dotnet add reference ../MyApp/MyApp.csproj
 dotnet restore
 dotnet build
 dotnet test
