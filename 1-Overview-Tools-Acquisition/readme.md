@@ -3,7 +3,7 @@
 > We'll get started with a quick overview of .NET Core: what it is, why you should care, and how to get set up to start using it.
 
 ## Prerequisites
-* [Visual Studio 2017 (Latest Public Preview)](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* [Visual Studio 2017](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 * [Visual Studio Code](https://code.visualstudio.com)
 * [.NET Core 2.0 SDK](https://www.microsoft.com/net/download/core)
 
@@ -36,7 +36,7 @@ dotnet new xunit -o MyApp.Test
 dotnet sln add MyApp/MyApp.csproj
 dotnet sln add MyApp.Test/MyApp.Test.csproj
 cd MyApp.Test
-dotnet add Reference ../MyApp/MyApp.csproj
+dotnet add reference ../MyApp/MyApp.csproj
 dotnet restore
 dotnet build
 dotnet test
