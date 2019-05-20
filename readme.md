@@ -18,6 +18,6 @@ From     | To       | Session
 
 ## Where to go next
  * [http://dot.net](http://dot.net) - .NET Core overview, tutorials, links
- * [http://doc.microsoft.com](http://docs.microsoft.com) - All the docs, tutorials, more!
+ * [http://docs.microsoft.com](http://docs.microsoft.com) - All the docs, tutorials, more!
  * [ASP.NET Documentation](https://docs.microsoft.com/en-us/aspnet/)
  * [.NET Standard docs](https://docs.microsoft.com/en-us/dotnet/articles/standard/library)
