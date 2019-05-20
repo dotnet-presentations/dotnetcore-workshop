@@ -1,0 +1,1 @@
+In this lab, we'll follow [this quickstart]( https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/multi-page).

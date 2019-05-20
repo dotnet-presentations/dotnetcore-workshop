@@ -1,11 +1,11 @@
 ## Option 1: Visual Studio 2017
 ### Creating a new Angular 2 application from the command line
-1. In Visual Studio 2017, create a new ASP.NET Core 2.0 application and select the Angular template.
+1. In Visual Studio 2019, create a new ASP.NET Core 3.0 application and select the Angular template.
 1. Inspect the application code.
 1. Run the application in Debug mode.
 
 ## Option 2: CLI and Visual Studio Code
-### Creating a new Angular 2 application from the command line
+### Creating a new Angular application from the command line
 1. Create a new ASP.NET Core application using the Angular template by executing the following command:
 
   ```
@@ -15,7 +15,7 @@
 1. View the application code by typing `code .` to launch Visual Studio Code in the current directory.
 1. Build the application using `dotnet build`
 
-### Running the Angular 2 application
+### Running the Angular application
 1. From the commandline, set the ASP.NET Core development mode environment variable:
 
   ```
