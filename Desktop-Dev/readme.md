@@ -12,3 +12,4 @@
 
 ### Porting from .NET Framework to .NET Core
 1. Follow the steps in [this tutorial](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/).
+1. If time permits, follow this more in-depth tutorial: https://aka.ms/porting-to-netcore3 
