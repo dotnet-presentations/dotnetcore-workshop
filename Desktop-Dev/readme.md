@@ -11,4 +11,4 @@
 1. Inspect the code, modify and re-run if desired.
 
 ### Porting from .NET Framework to .NET Core
-1. Follow the steps in this tutorial: https://aka.ms/porting-to-netcore3
+1. Follow the steps in [this tutorial](https://devblogs.microsoft.com/dotnet/porting-desktop-apps-to-net-core/).
