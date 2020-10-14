@@ -1,5 +1,5 @@
 Are you ready to get started with .NET Core? Learn the skills that will make you successful in building .NET applications no matter what operating system you are targeting. We’ll start with an overview of the framework and development tools, dig into ASP.NET Core web development, look at developing desktop and mobile applications, overview code reuse across frameworks, and show you what you need to know to update from the .NET Framework to .NET Core. Bring your laptop and roll up your sleeves for this full day of instructor-led training.
-
+ 
 ## Schedule
 
 From     | To       | Session
