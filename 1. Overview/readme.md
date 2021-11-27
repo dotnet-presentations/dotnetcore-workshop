@@ -34,9 +34,9 @@ Install [the latest .NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0
 1. Change the "Hello World" message to "Hello .NET".
 1. Switch to the console and type `dotnet run` to to see the update.
 
-### Creating a new .NET 6 application using Visual Studio 2019
+### Creating a new .NET 6 application using Visual Studio 2022
 
-1. Follow the steps in the [Building a complete .NET 6 solution on Windows, using Visual Studio 2019](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
+1. Follow the steps in the [Building a complete .NET 6 solution on Windows, using Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/core/tutorials/using-on-windows-full-solution) tutorial.
     > Note: If you'd like simpler one to get started, you can first complete the [Building a C# Hello World application with .NET 6 in Visual Studio 2022](https://docs.microsoft.com/en-us/dotnet/articles/csharp/getting-started/with-visual-studio) tutorial.
 
 ### Extra Credit: Create a Class Library and Xunit test solution
