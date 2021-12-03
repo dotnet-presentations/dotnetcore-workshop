@@ -1,4 +1,4 @@
-# Maximize Code Reuse With .NET Standard (1 hour)
+# Maximize Code Reuse With .NET Standard (30 minutes)
 
 > .NET everywhere! In this fun session, we'll explain exactly what .NET Standard is, then show how .NET Standard allows us to write the one .NET class and use it in the full .NET Framework and .NET.
 
@@ -52,4 +52,4 @@
 1. Explain that this library can also now add an `IsSupported()` method which uses the same preprocessor logic to return true or false depending on whether GPS support is available. This allows you to share the .NET Standard library to any platform, and clients can check if geolocation is supported before making the library call.
 1. In the project properties, turn on NuGet package generation support. Build the application and show that just one NuGet package is created. Previously, you'd need to write your own script to build a single NuGet targeting multiple platforms.
 
-> Note: You can see these demos in this [.NET Standard Deep Dive](https://channel9.msdn.com/Shows/On-NET/NET-Standard-Deep-Dive) video on Channel 9.
+> Note: You can see these demos in this [.NET Standard Deep Dive](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWx321A_pr-7HhRNk7wOLLY) video on Channel 9.
