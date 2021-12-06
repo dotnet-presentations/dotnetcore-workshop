@@ -8,7 +8,7 @@ Module # | From     | To       | Session
 #2| 9:30 PM  | 10:00 AM  | [Maximize Code Reuse With .NET Standard](NET-Standard) (30 minutes)
 #3| 10:00 AM  | 12:00 PM | [Web Development](Web-Dev) (2 hours)
 N/A |12:00 PM | 1:00 PM  | Lunch
-#4 | 1:00 PM | 2:00 PM | [Client Development](Client-Dev) (2 hours)
+#4 | 1:00 PM | 2:00 PM | [Client Development](Client-Dev) (1 hour)
 #5| 2:00 PM  | 3:00 PM  | [.NET Containers](Containers) (1 hour)
  N/A| 3:00 PM  | 3:30 PM  | Afternoon Break
 #6 | 3:30 PM  | 4:00 PM  | [Porting From .NET Framework](Porting-From-NET-Framework) (30 minutes)
