@@ -1,4 +1,4 @@
-Web Development with ASP.NET Core (2 hours)
+## Web Development with ASP.NET Core (2 hours)
 
  > In this session, we'll cover the new things that have been added to the Web App space in .NET Core through .NET 6. We'll dig into some top new features, and showcase some use cases for each new App Model.
 

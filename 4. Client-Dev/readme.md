@@ -1,4 +1,4 @@
-## Desktop Development with .NET 6
+## Client Development with .NET 6 (2 Hours)
 
 ### New Windows Forms application
 1. Create a new application using `dotnet new winforms`
