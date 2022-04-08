@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26524.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind", "Northwind\Northwind.csproj", "{12EB112B-A120-45C6-9C61-0A4F13C8C4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{E17A6402-855E-45D5-B2F4-B089B1F098FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{46288B9B-7120-4D76-9424-F824566EEB20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{12EB112B-A120-45C6-9C61-0A4F13C8C4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12EB112B-A120-45C6-9C61-0A4F13C8C4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12EB112B-A120-45C6-9C61-0A4F13C8C4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17A6402-855E-45D5-B2F4-B089B1F098FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17A6402-855E-45D5-B2F4-B089B1F098FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17A6402-855E-45D5-B2F4-B089B1F098FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17A6402-855E-45D5-B2F4-B089B1F098FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46288B9B-7120-4D76-9424-F824566EEB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46288B9B-7120-4D76-9424-F824566EEB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46288B9B-7120-4D76-9424-F824566EEB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46288B9B-7120-4D76-9424-F824566EEB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15943777-3ACC-4B89-9701-E49834137EF6}
 	EndGlobalSection
 EndGlobal
